@@ -8,7 +8,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-let participantes = ['Brener','João','Fabiana','Marcelo','Bruna','Guilherme','Vitor','Luiz','Amanda', 'José']
+let participantes = ['Brener','João','Fabiana','Marcelo','Bruna','Guilherme','Vitor','Luiz','Amanda']
 let palestrantes = ['Gabriel', 'Vitor', 'Henrique']
 
 if (participantes.length < 10){
